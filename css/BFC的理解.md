@@ -24,3 +24,36 @@
 1. 解决两个相邻元素的上下`margin`重叠问题
 2. 解决高度塌陷问题
 3. 实现多栏布局
+
+举例：
+
+```
+
+<head>
+	<style type="text/css">
+	*{margin:0;padding:0;}
+	ul{
+		list-style:none;
+		border:1px solid #ccc
+	}
+	ul li{
+		float:left;
+		width:100px;
+		height:100px;
+		background:blue;
+		margin:20px
+	}
+</head>
+
+<body>
+<ul>
+	<li>1</li>
+	<li>2</li>
+	<li>3</li>
+</ul>
+</body>
+```
+
+此时，页面的效果为：`ul`在上面，`li`在下面，造成这样的原因是高度塌陷（`ul`没有包裹`li`）
+
+当我们加上`overflow:hidden`，就能解决这个问题。（也可以用`position:absolute`、`float:left`，但是一般情况使用`overflow:hidden`，不会影响样式）
