@@ -10,3 +10,4 @@
 10.git branch 查看当前所处分支（所处login分支）
 11.git push -u origin login 将login推送到云仓库，因为是第一次推送，所以需要给个名字，一般什么分支就给什么名字
 12.git checkout -b home 创建并切换到一个新分支，开始新的功能编写
+
