@@ -135,3 +135,52 @@
 
 [自定义事件](https://github.com/liuxueji/mynode/blob/master/js/%E8%87%AA%E5%AE%9A%E4%B9%89%E4%BA%8B%E4%BB%B6.md)
 
+[拖拽事件](https://github.com/liuxueji/mynode/blob/master/vue/%E6%8B%96%E6%8B%BD%E4%BA%8B%E4%BB%B6.md)
+
+# vue
+[MVC MVP MVVM理解](https://github.com/liuxueji/mynode/blob/master/vue/MVC%20MVP%20MVVM%E7%90%86%E8%A7%A3.md)
+
+[Runtime + Compiler和Runtime-only的区别](https://github.com/liuxueji/mynode/blob/master/vue/Runtime%20%2B%20Compiler%E5%92%8CRuntime-only%E7%9A%84%E5%8C%BA%E5%88%AB.md)
+
+[computed、watch、methods有什么区别](https://github.com/liuxueji/mynode/blob/master/vue/computed%E3%80%81watch%E3%80%81methods%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB.md)
+
+[keep-alive](https://github.com/liuxueji/mynode/blob/master/vue/keep-alive.md)
+
+[nextTick](https://github.com/liuxueji/mynode/blob/master/vue/nextTick.md)
+
+[v-if和v-show](https://github.com/liuxueji/mynode/blob/master/vue/v-if%E5%92%8Cv-show.md)
+
+[vue2和vue3响应式原理的对比](https://github.com/liuxueji/mynode/blob/master/vue/vue2%E5%92%8Cvue3%E5%93%8D%E5%BA%94%E5%BC%8F%E5%8E%9F%E7%90%86%E7%9A%84%E5%AF%B9%E6%AF%94.md)
+
+[vue3新特性](https://github.com/liuxueji/mynode/blob/master/vue/vue3%E6%96%B0%E7%89%B9%E6%80%A7.md)
+
+[vue挂载点、实例、模板](https://github.com/liuxueji/mynode/blob/master/vue/vue%E6%8C%82%E8%BD%BD%E7%82%B9%E3%80%81%E5%AE%9E%E4%BE%8B%E3%80%81%E6%A8%A1%E6%9D%BF.md)
+
+[vue的核心](https://github.com/liuxueji/mynode/blob/master/vue/vue%E7%9A%84%E6%A0%B8%E5%BF%83.md)
+
+[vue组件化的理解](https://github.com/liuxueji/mynode/blob/master/vue/vue%E7%BB%84%E4%BB%B6%E5%8C%96%E7%9A%84%E7%90%86%E8%A7%A3.md)
+
+[什么是虚拟DOM](https://github.com/liuxueji/mynode/blob/master/vue/%E4%BB%80%E4%B9%88%E6%98%AF%E8%99%9A%E6%8B%9FDOM.md)
+
+[全局组件的注册](https://github.com/liuxueji/mynode/blob/master/vue/%E5%85%A8%E5%B1%80%E7%BB%84%E4%BB%B6%E7%9A%84%E6%B3%A8%E5%86%8C.md)
+
+[单向数据流和双向数据流的理解](https://github.com/liuxueji/mynode/blob/master/vue/%E5%8D%95%E5%90%91%E6%95%B0%E6%8D%AE%E6%B5%81%E5%92%8C%E5%8F%8C%E5%90%91%E6%95%B0%E6%8D%AE%E6%B5%81%E7%9A%84%E7%90%86%E8%A7%A3.md)
+
+[开发依赖和生产依赖](https://github.com/liuxueji/mynode/blob/master/vue/%E5%BC%80%E5%8F%91%E4%BE%9D%E8%B5%96%E5%92%8C%E7%94%9F%E4%BA%A7%E4%BE%9D%E8%B5%96.md)
+
+[打包的一些问题](https://github.com/liuxueji/mynode/blob/master/vue/%E6%89%93%E5%8C%85%E7%9A%84%E4%B8%80%E4%BA%9B%E9%97%AE%E9%A2%98.md)
+
+[生命周期](https://github.com/liuxueji/mynode/blob/master/vue/%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F.md)
+
+[组件中参数传递](https://github.com/liuxueji/mynode/blob/master/vue/%E7%BB%84%E4%BB%B6%E4%B8%AD%E5%8F%82%E6%95%B0%E4%BC%A0%E9%80%92.md)
+
+[组件化编程](https://github.com/liuxueji/mynode/blob/master/vue/%E7%BB%84%E4%BB%B6%E5%8C%96%E7%BC%96%E7%A8%8B.md)
+
+[聊聊SPA](https://github.com/liuxueji/mynode/blob/master/vue/%E8%81%8A%E8%81%8ASPA.md)
+
+[聊聊vue.use](https://github.com/liuxueji/mynode/blob/master/vue/%E8%81%8A%E8%81%8Avue.use.md)
+
+[通俗易懂的介绍slot](https://github.com/liuxueji/mynode/blob/master/vue/%E9%80%9A%E4%BF%97%E6%98%93%E6%87%82%E7%9A%84%E4%BB%8B%E7%BB%8Dslot.md)
+
+[通过axios解决跨域](https://github.com/liuxueji/mynode/blob/master/vue/%E9%80%9A%E8%BF%87axios%E8%A7%A3%E5%86%B3%E8%B7%A8%E5%9F%9F.md)
+
